@@ -530,7 +530,7 @@ Chaos Game
 # 3-D Fractals with PyCairo and OpenGL and then get VR in the picture
 
 if __name__ == "__main__":
-	'''
+
 	draw_polygon(5,200)
 	turtle.clearscreen()
 	draw_spiral(300,72,15,1)
@@ -618,5 +618,4 @@ if __name__ == "__main__":
 	damian.setpos(-200,-200)
 	damian.pendown()
 	tri_spi(600,.75,400)
-	'''
 	damian.bye()	
